@@ -30,6 +30,8 @@ apis:
 common:
   - type: Website
     url: https://www.ennis.com
+  - type: LLMsTxt
+    url: https://ennis.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
