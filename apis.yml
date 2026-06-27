@@ -30,7 +30,7 @@ apis:
 common:
   - type: Website
     url: https://www.ennis.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://ennis.com/llms.txt
 maintainers:
   - FN: Kin Lane
