@@ -28,10 +28,14 @@ apis:
     description: >-
       The Ennis Inc API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/ennis-domain-security.yml
   - type: Website
     url: https://www.ennis.com
   - type: LlmsText
     url: https://ennis.com/llms.txt
+  - url: https://www.ennis.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
